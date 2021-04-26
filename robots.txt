@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://z_pengyu.gitee.io/testpage1/sitemap.xml
+Sitemap: https://z_pengyu.gitee.io/testpage/sitemap.xml
