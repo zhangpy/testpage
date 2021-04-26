@@ -1,0 +1,5 @@
+# Group 1
+User-agent: *
+Allow: /
+
+Sitemap: https://z_pengyu.gitee.io/testpage1/sitemap.xml
